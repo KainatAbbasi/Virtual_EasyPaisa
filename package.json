@@ -1,0 +1,20 @@
+{
+  "name": "easypaisa-app_chalk_k7",
+  "version": "1.0.0",
+  "description": "\"A Simple EasyPaisa App with TypeScript Using chalk :)\"",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kainat",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "inquirer": "^9.2.19"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
