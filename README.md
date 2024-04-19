@@ -7,11 +7,12 @@
 <br />
 
 <div align="center">
-  <!-- GitHub Stars -->
-  <img src="https://img.shields.io/github/stars/<your-username>/<your-repo-name>?style=social" alt="GitHub Repo stars">
-  <!-- License -->
-  <img src="https://img.shields.io/github/license/<your-username>/<your-repo-name>" alt="License">
+  <!-- LinkedIn Profile -->
+  <a href="https://www.linkedin.com/in/kainat-abbasi-2272842b7">
+    <img src="https://img.shields.io/badge/LinkedIn-Kainat%20Abbasi-blue?style=flat&logo=linkedin" alt="LinkedIn Profile">
+  </a>
 </div>
+
 
 <br />
 
@@ -34,15 +35,15 @@ EasyPaisa App provides a user-friendly interface to perform various financial op
 ### Installation
 Clone the repository to your local machine:
 
-git clone https://github.com/KainatAbbasi/Virtual_EasyPaisa.git
+git clone https://github.com/KainatAbbasi/Virtual_EasyPaisa.git<br>
 # Operations
-*Available Balance:* Check your current account balance.
-*Money Transfer:* Transfer money to another account.
-*Bank Transfer:* Transfer funds to a bank account.
-*Transaction History:* View a record of your past transactions.
-*Exit:* Quit the application.
+*Available Balance:* Check your current account balance.<br>
+*Money Transfer:* Transfer money to another account.<br>
+*Bank Transfer:* Transfer funds to a bank account.<br>
+*Transaction History:* View a record of your past transactions.<br>
+*Exit:* Quit the application.<br>
 # Author
-👤 *Kainat Abbasi*
+👤 *Kainat Abbasi*<br>
 
-*LinkedIn:* https://www.linkedin.com/in/kainat-abbasi-2272842b7
+*LinkedIn:* https://www.linkedin.com/in/kainat-abbasi-2272842b7<br>
 Give a ⭐️ if you liked this project!
